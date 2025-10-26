@@ -200,5 +200,3 @@ question<number>.ipynb
 Include textual answers in the notebook itself.  
 For **Question 1**, put the link to the **Streamlit app** at the top of the notebook.
 
----
-```
